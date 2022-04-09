@@ -1,1 +1,1 @@
-# Johdatus-datatieteeseen-oppimisp-iv-kirja
+# Johdatus-datatieteeseen-oppimispaivakirja
